@@ -21,7 +21,7 @@ def load_last_check(filename='last_check.pkl'):
 def create_imap_client(imap_server, email_account, password):
     """创建并返回一个IMAP客户端连接"""
     print(f"正在连接服务器 {imap_server}...")
-    mail = IMAPClient(imap_server, ssl=True, port=993)
+    mail = IMAPClient(imap_server, use_uid=True, ssl=True)
     print("正在登录邮箱...")
     mail.login(email_account, password)
     print("正在发送客户端ID信息...")
@@ -145,7 +145,7 @@ def parse_email(email_account, password, imap_server="imap.example.com"):
                                     safe_subject = f"email_{int(time.time())}"
                                 
                                 # 保存HTML内容
-                                with open(safe_subject + ".html", "w", encoding='utf-8') as f: 
+                                with open("daily/"+safe_subject + ".html", "w", encoding='utf-8') as f: 
                                     f.write(email_content['html'])
                                 
                                 # 提取并保存论文链接
@@ -194,13 +194,13 @@ def extract_paper_links(html_content):
     links = re.findall(arxiv_pattern, html_content)
     return links
 
-def save_arxiv_links(links, filename='arxiv_links.txt'):
+def save_arxiv_links(links, filename='links/arxiv_links.txt'):
     """保存论文链接到文件"""
     with open(filename, 'a', encoding='utf-8') as f:
         for link in links:
             f.write(f"https://arxiv.org/abs/{link}\n")
 
-def save_pdf_links(links, filename='pdf_links.txt'):
+def save_pdf_links(links, filename='links/pdf_links.txt'):
     """保存论文链接到文件"""
     with open(filename, 'a', encoding='utf-8') as f:
         for link in links:
