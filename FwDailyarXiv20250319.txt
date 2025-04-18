@@ -1,0 +1,1129 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----- Original Message -----
+From: "Github Action" <lizhi_cursor02@163.com>
+To: You <lz59970062@163.com>
+Sent: Wed, 19 Mar 2025 09:18:50 +0800 (CST)
+Subject: Daily arXiv 2025/03/19
+
+
+
+
+| UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection |
+| Xin Jin, Haisheng Su, Kai Liu, Cong Ma, Wei Wu, ...
+Unknown Affiliation |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12009 |
+| TLDR: UniMamba proposes a unified architecture integrating 3D convolution and State Space Models to efficiently capture both local and global spatial dependencies from LiDAR point clouds, overcoming challenges of locality loss and limited spatial diversity. |
+| PDF |
+
+
+| L2COcc: Lightweight Camera-Centric Semantic Scene Completion via Distillation of LiDAR Model |
+| Ruoyu Wang, Yukai Ma, Yi Yao, Sheng Tao, Haoang Li, ...
+Institute of Cyber-Systems and Control, Zhejiang University, Zhejiang Guoli Security Technology Co., Ltd., School of Computation, Information and Technology, Technical University of Munich |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12369 |
+| TLDR: L2COcc proposes a lightweight camera-centric semantic scene completion framework that incorporates LiDAR inputs, using efficient voxel transformers and cross-modal knowledge distillation modules to significantly reduce computational burden while maintaining high accuracy, outperforming state-of-the-art methods on both SemanticKITTI and SSCBench-KITTI-360 benchmarks. |
+| PDF |
+
+
+| MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs |
+| Erik Daxberger, Nina Wenzel, David Griffiths, Haiming Gang, Justin Lazarow, ...
+|
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.13111 |
+| TLDR: The paper introduces a novel supervised fine-tuning dataset, CA-VQA, for multimodal large language models (MLLMs) to enhance their 3D spatial understanding capabilities, including tasks such as spatial relationship prediction, metric size and distance estimation, and 3D grounding, achieving state-of-the-art performance on 3D spatial understanding benchmarks. |
+| PDF |
+
+
+| FA-BARF: Frequency Adapted Bundle-Adjusting Neural Radiance Fields |
+| Rui Qian, Chenyangguang Zhang, Yan Di, Guangyao Zhai, Ruida Zhang, ...
+Institute of Science and Technology for Brain-Inspired Intelligence, Fudan University, Chair for Computer Aided Medical Procedures and Augmented Reality, Technical University of Munich |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12086 |
+| TLDR: This paper introduces FA-BARF, a novel frequency-adapted bundle-adjusting neural radiance field method that accelerates the joint optimization process of camera poses and 3D scene reconstruction, mitigating frequency fluctuations and improving the robustness of NeRF under imperfect camera poses. |
+| PDF |
+
+
+| SFMNet: Sparse Focal Modulation for 3D Object Detection |
+| Oren Shrout, Ayellet Tal
+Technion |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12093 |
+| TLDR: The paper introduces SFMNet, a novel 3D sparse detector that combines the efficiency of sparse convolutions with transformer-like long-range dependencies through a Sparse Focal Modulation module, achieving state-of-the-art performance on autonomous driving datasets. |
+| PDF |
+
+
+| GS-3I: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images |
+| Tengfei Wang, Yongmao Hou, Zhaoning Zhang, Yiwei Xu, Zongqian Zhan, ...
+Wuhan University |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12335 |
+| TLDR: GS-3I: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images introduces a method that mitigates bias from underexposed regions and geometric constraint mismatches caused by inconsistent lighting, achieving robust and accurate surface reconstruction across various illumination conditions. |
+| PDF |
+
+
+| FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis |
+| Luxi Chen, Zihan Zhou, Min Zhao, Yikai Wang, Ge Zhang, ...
+Beijing Key Laboratory of Big Data Management and Analysis Methods, Dept. of Comp. Sci. \& Tech., BNRist Center, Tsinghua University, ByteDance Seed, Gaoling School of AI, Renmin University of China |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.13265 |
+| TLDR: The paper introduces FlexWorld, a novel framework that progressively expands 3D scenes from a single image using a fine-tuned video-to-video diffusion model, enabling high-quality novel view synthesis and flexible 3D scene generation with 360° rotations and zooming. |
+| PDF |
+
+
+| Atlas: Multi-Scale Attention Improves Long Context Image Modeling |
+| Kumar Krishna Agrawal, Long Lian, Longchao Liu, Natalia Harguindeguy, Boyi Li, ...
+Unknown Affiliation |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12355 |
+| TLDR: Atlas, a novel neural network architecture leveraging Multi-Scale Attention, significantly improves the compute-performance tradeoff in long-context image modeling, achieving comparable accuracy to state-of-the-art models while being significantly faster. |
+| PDF |
+
+
+| GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching |
+| Feng Qiao, Zhexiao Xiong, Eric Xing, Nathan Jacobs
+Washington University in St. Louis |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12720 |
+| TLDR: GenStereo is a novel diffusion-based framework that addresses both visual quality and geometric accuracy in stereo image generation, enabling high-quality stereo images with strong semantic and geometric consistency, and significantly improving unsupervised stereo matching learning across diverse real-world scenarios. |
+| PDF |
+
+
+| TACO: Taming Diffusion for in-the-wild Video Amodal Completion |
+| Ruijie Lu, Yixin Chen, Yu Liu, Jiaxiang Tang, Junfeng Ni, ...
+State Key Laboratory of General Artificial Intelligence, BIGAI, Tsinghua University, State Key Laboratory of General Artificial Intelligence, Peking University |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12049 |
+| TLDR: This paper introduces TACO, a conditional diffusion model for Video Amodal Completion (VAC), which learns rich spatio-temporal consistent manifolds from pre-trained video diffusion models and effectively generalizes to diverse in-the-wild videos, showcasing its potential in various downstream tasks. |
+| PDF |
+
+
+| SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs |
+| Guibiao Liao, Qing Li, Zhenyu Bao, Guoping Qiu, Kanglin Liu
+University of Nottingham, Peking University |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12535 |
+| TLDR: The paper introduces SPC-GS, a novel approach that combines Scene-layout-based Gaussian Initialization and Semantic-Prompt Consistency to address the challenges of sparse input views in 3D Gaussian Splatting-based indoor open-world free-view synthesis, significantly improving reconstruction and semantic segmentation quality. |
+| PDF |
+
+
+| PoseSyn: Synthesizing Diverse 3D Pose Data from In-the-Wild 2D Data |
+| ChangHee Yang, Hyeonseop Song, Seokhun Choi, Seungwoo Lee, Jaechul Kim, ...
+AI Lab, CTO Division, LG Electronics |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.13025 |
+| TLDR: PoseSyn synthesizes diverse 3D pose data from abundant in-the-wild 2D pose datasets by identifying challenging poses, generating motion sequences, and synthesizing realistic images, thereby improving 3D pose estimation accuracy across various real-world scenarios without requiring costly 3D annotations. |
+| PDF |
+
+
+| RePerformer: Immersive Human-centric Volumetric Videos from Playback to Photoreal Reperformance |
+| Yuheng Jiang, Zhehao Shen, Chengcheng Guo, Yu Hong, Zhuo Su, ...
+Max Planck Institute for Informatics, Saarland Informatics Campus, ShanghaiTech University, DGene, ByteDance, NeuDim |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12242 |
+| TLDR: RePerformer presents a novel Gaussian-based approach for generating high-fidelity human-centric volumetric videos that can both accurately replay and realistically re-perform dynamic scenes under novel motions, overcoming limitations of existing methods that either focus on general dynamic scenes or animate human avatars. |
+| PDF |
+
+
+| Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images |
+| Tianhao Wu, Chuanxia Zheng, Frank Guan, Andrea Vedaldi, Tat-Jen Cham
+University of Oxford, Nanyang Technological University, Singapore Institute of Technology |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.13439 |
+| TLDR: The paper introduces Amodal3R, a novel single-stage 3D reconstruction model that directly reconstructs complete and high-quality 3D objects from partially occluded 2D images, leveraging mask-weighted cross-attention and occlusion-aware layers to improve both geometry and appearance, outperforming existing two-stage methods and establishing a new benchmark for occlusion-aware 3D reconstruction. |
+| PDF |
+
+
+| ProbDiffFlow: An Efficient Learning-Free Framework for Probabilistic Single-Image Optical Flow Estimation |
+| Mo Zhou, Jianwei Wang, Xuanmeng Zhang, Dylan Campbell, Kai Wang, ...
+Unknown Affiliation |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12348 |
+| TLDR: ProbDiffFlow is an efficient training-free framework that estimates probabilistic optical flow distributions from a single image by synthesizing diverse future frames and leveraging a pre-trained optical flow model, overcoming the limitations of existing single-frame methods that rely on labeled training and produce deterministic predictions. |
+| PDF |
+
+
+| ProtoDepth: Unsupervised Continual Depth Completion with Prototypes |
+| Patrick Rim, Hyoungseob Park, S. Gangopadhyay, Ziyao Zeng, Younjoon Chung, ...
+Yale Vision Lab |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12745 |
+| TLDR: ProtoDepth introduces a novel prototype-based approach for unsupervised continual depth completion, enabling models to adapt to new domains without forgetting previously learned information, significantly reducing forgetting compared to baselines across indoor and outdoor sequences. |
+| PDF |
+
+
+| DivCon-NeRF: Generating Augmented Rays with Diversity and Consistency for Few-shot View Synthesis |
+| Ingyun Lee, Jae Won Jang, Seunghyeon Seo, Nojun Kwak
+Seoul National University |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12947 |
+| TLDR: DivCon-NeRF significantly enhances both diversity and consistency in ray augmentation for few-shot view synthesis, effectively reducing floaters and visual distortions compared to existing methods, as demonstrated on multiple datasets. |
+| PDF |
+
+
+| AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction |
+| Thomas Monninger, Md Zafar Anwar, Stanislaw Antol, Steffen Staab, Sihao Ding
+Mercedes-Benz Research \& Development North America, University of Stuttgart, University of Southampton |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.13430 |
+| TLDR: AugMapNet proposes a novel latent BEV grid augmentation technique that significantly enhances vectorized HD map construction by providing dense spatial supervision to vector map decoders, outperforming existing methods on nuScenes and Argoverse2 datasets with minimal parameter overhead. |
+| PDF |
+
+
+| AR-1-to-3: Single Image to Consistent 3D Object Generation via Next-View Prediction |
+| Xuying Zhang, Yupeng Zhou, Kai Wang, Yikai Wang, Zhen Li, ...
+Nankai University, ByteDance Inc., Tsinghua University |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12929 |
+| TLDR: AR-1-to-3 proposes a novel next-view prediction paradigm based on diffusion models that first generates views closer to the input view, using them as contextual information to progressively synthesize farther views, significantly improving consistency and fidelity of 3D assets. |
+| PDF |
+
+
+| SparseAlign: A Fully Sparse Framework for Cooperative Object Detection |
+| Yunshuang Yuan, Yan Xia, Daniel Cremers, Monika Sester
+Leibniz University Hannover, Technical University of Munich |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12982 |
+| TLDR: SparseAlign presents a fully sparse framework for cooperative object detection, addressing center feature missing and isolated convolution field issues, achieving superior performance with significantly reduced communication bandwidth compared to dense frameworks. |
+| PDF |
+
+
+| STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans |
+| Shashikant Verma, Harish Katti, Soumyaratna Debnath, Yamuna Swamy, Shanmuganathan Raman
+National Institutes of Health, Indian Institute of Technology Gandhinagar |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.13344 |
+| TLDR: This paper introduces STEP, a novel transformer-based framework for simultaneously tracking and estimating pose across diverse animal species and humans, addressing challenges in traditional top-down methods by removing the need for keypoint initialization and integrating tracking capabilities. |
+| PDF |
+
+
+| TransDiff: Diffusion-Based Method for Manipulating Transparent Objects Using a Single RGB-D Image |
+| Haoxiao Wang, Kaichen Zhou, Binrui Gu, Zhiyuan Feng, Weijie Wang, ...
+School of CS, National Key Laboratory for Multimedia Information Processing, Zhejiang University, Tianjin University of Technology, Peking University, ... |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12779 |
+| TLDR: TransDiff is a novel single-view RGB-D-based depth completion framework using Denoising Diffusion Probabilistic Models (DDPM) to accurately grasp transparent objects, overcoming challenges posed by their reflection and refraction properties. |
+| PDF |
+
+
+| Less Biased Noise Scale Estimation for Threshold-Robust RANSAC |
+| Johan Edstedt
+Linköping University |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.13433 |
+| TLDR: The paper proposes an improved method for estimating the inlier noise scale, which is crucial for robustly estimating relative pose using RANSAC, by addressing biases in previous approaches and integrating it into a RANSAC framework, thereby enhancing the threshold robustness of RANSAC. |
+| PDF |
+
+
+| DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction |
+| Rui Wang, Quentin Lohmeyer, Mirko Meboldt, Siyu Tang
+ETH Zurich |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.13176 |
+| TLDR: DeGauss, a self-supervised framework using dynamic-static Gaussian splatting, robustly decomposes and reconstructs dynamic and static elements from real-world, in-the-wild videos, achieving state-of-the-art performance across various scenarios without relying on complex heuristics or extensive supervision. |
+| PDF |
+
+
+| SatDepth: A Novel Dataset for Satellite Image Matching |
+| Rahul Deshmukh, Avinash Kak
+Purdue University |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12706 |
+| TLDR: The paper introduces "SatDepth," a novel dataset for satellite image matching that provides dense ground-truth correspondences and addresses the imbalance in track-angle differences, enabling the evaluation of image matching networks specifically for satellite imagery and outperforming traditional methods by up to 40% in precision. |
+| PDF |
+
+
+| 3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction |
+| Peizhen Zheng, Longfei Wei, Dongjing Jiang, Jianfei Zhang
+ThinkX, Canada, MedicineX, Canada |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12001 |
+| TLDR: This paper proposes a novel 3D Gaussian Splatting method for high-fidelity dynamic street scene reconstruction, effectively handling moving objects while preserving static scene details through adaptive transparency optimization and iterative refinement of Gaussian points. |
+| PDF |
+
+
+| Deblur Gaussian Splatting SLAM |
+| Francesco Girlanda, Denys Rozumnyi, Marc Pollefeys, Martin R. Oswald
+Microsoft, ETH Zürich, University of Amsterdam |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12572 |
+| TLDR: The paper introduces Deblur-SLAM, a robust RGB SLAM pipeline that addresses motion blur by estimating sub-frame trajectories, combining frame-to-frame and frame-to-model approaches, and incorporating online loop closure and global bundle adjustment for high-fidelity reconstructions in motion-blurred settings. |
+| PDF |
+
+
+| Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis |
+| Hongyu Sun, Qiuhong Ke, Ming Cheng, Yongcai Wang, Deying Li, ...
+Department of Computer Science, Renmin University of China, Department of Data Science \& AI, Monash University |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12150 |
+| TLDR: Point-Cache is a hierarchical cache model that dynamically captures and stores essential distribution clues from online test samples, enabling robust and generalizable point cloud recognition without relying on training data, thus addressing limitations of prior test-time methods. |
+| PDF |
+
+
+| SAM2 for Image and Video Segmentation: A Comprehensive Survey |
+| Zhang Jiaxing, Tang Hao
+School of Software engineering, Sichuan University, School of Computer Science, Peking University |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12781 |
+| TLDR: This paper provides a comprehensive survey of SAM2, an improved version of the Segment Anything Model, evaluating its performance in image and video segmentation across various domains, highlighting its strengths and limitations, and proposing future development directions. |
+| PDF |
+
+
+| Color Matching Using Hypernetwork-Based Kolmogorov-Arnold Networks |
+| Artem Nikonorov, Georgy Perevozchikov, Andrei Korepanov, Nancy Mehta, Mahmoud Afifi, ...
+Artificial Intelligence Research Institute, York University, Moscow Institute of Physics and Technologies, Computer Vision Lab, CAIDAS \& IFI, University of Würzburg, Institute for Information Transmission Problems RAS, ... |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.11781 |
+| TLDR: cmKAN is a versatile hypernetwork-based Kolmogorov-Arnold Network framework that efficiently and accurately maps colors between different distributions, outperforming existing methods across various color-matching tasks, as demonstrated by extensive evaluations and comparisons. |
+| PDF |
+
+
+| OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering |
+| Guanhua Ding, Yuxuan Xia, Runwei Guan, Qinchen Wu, Tao Huang, ...
+City University of Macau, Department of Computer Science and Engineering, Shanghai Jiaotong University, School of Artificial Intelligence and Computer Science, The Hong Kong University of Science and Technology, ... |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12968 |
+| TLDR: The paper introduces OptiPMB, a novel 3D multi-object tracking method that employs an optimized Poisson multi-Bernoulli (PMB) filter within the tracking-by-detection framework, incorporating innovative designs for effective track initialization, occluded object track maintenance, and overall performance enhancement, achieving superior accuracy compared to state-of-the-art methods on nuScenes and KITTI datasets. |
+| PDF |
+
+
+| VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining |
+| Yunze Liu, Peiran Wu, Cheng Liang, Junxiao Shen, Limin Wang, ...
+University of Bristol, IIIS, Tsinghua University, Nanjing University |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12332 |
+| TLDR: The key contribution of this paper is the introduction of VideoMAP, a Hybrid Mamba-Transformer framework with a novel frame-wise masked autoregressive pre-training strategy, which significantly improves scalability and sample efficiency in video understanding tasks, outperforming existing methods across various datasets. |
+| PDF |
+
+
+| Leveraging Motion Information for Better Self-Supervised Video Correspondence Learning |
+| Zihan Zhoua, Changrui Daia, Aibo Songa, Xiaolin Fang
+School of Computer Science and Engineering, Southeast University |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12026 |
+| TLDR: The paper introduces MER, a self-supervised Video Correspondence Learning framework that enhances motion details and pixel correspondence through a Motion Enhancement Engine and Multi-Cluster Sampler, outperforming state-of-the-art methods in video object segmentation and keypoint tracking tasks. |
+| PDF |
+
+
+| Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation |
+| Zhuoqun Su, Huimin Lu, Shuaifeng Jiao, Junhao Xiao, Yaonan Wang, ...
+College of Electrical and Information Engineering, Hunan University, College of Intelligence Science and Technology, National University of Defense Technology |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12914 |
+| TLDR: This paper introduces an efficient multimodal 3D object detector that uses Instance-level Contrastive Distillation (ICD) to align image and LiDAR features, along with a Cross Linear Attention Fusion Module (CLFM) for scalable fusion, achieving state-of-the-art performance on the KITTI and nuScenes datasets while maintaining high efficiency. |
+| PDF |
+
+
+| Towards Scalable Foundation Model for Multi-modal and Hyperspectral Geospatial Data |
+| Haozhe Si, Yuxuan Wan, Minh Do, Deepak Vasisht, Han Zhao, ...
+IBM Research, NY, USA., University of Illinois Urbana-Champaign, IL, USA. |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12843 |
+| TLDR: The paper introduces LESS ViT, a novel architecture for geospatial foundation models that incorporates Tied Patch Embedding, Continuous Positional-Channel Embedding, and a Perception Field Mask to efficiently handle spatial-spectral correlations in multi-modal and hyperspectral geospatial data, achieving superior performance with reduced computational complexity and fewer parameters. |
+| PDF |
+
+
+| BREEN: Bridge Data-Efficient Encoder-Free Multimodal Learning with Learnable Queries |
+| Tianle Li, Yongming Rao, Winston Hu, Yu Cheng
+The Chinese University of Hong Kong, Tencent Hunyuan Research |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12446 |
+| TLDR: BREEN, a data-efficient encoder-free multimodal architecture, introduces a learnable query to transfer visual knowledge from a pretrained CLIP model, significantly reducing training data requirements while achieving comparable performance to existing encoder-free models. |
+| PDF |
+
+
+| UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network |
+| Siyuan Yao, Yang Guo, Yanyang Yan, Wenqi Ren, Xiaochun Cao
+Beijing University of Posts and Telecommunications, Sun Yat-sen University, State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12888 |
+| TLDR: UncTrack is a novel uncertainty-aware transformer tracker that predicts target localization uncertainty and incorporates this information to maintain reliable target state prediction, outperforming state-of-the-art methods across various challenging scenarios. |
+| PDFCode |
+
+
+| 3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o |
+| Dingning Liu, Cheng Wang, Peng Gao, Renrui Zhang, Xinzhu Ma, ...
+Unknown Affiliation |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.13185 |
+| TLDR: 3DAxisPrompt enhances the 3D understanding and reasoning capabilities of MLLMs like GPT-4o by leveraging 3D coordinate axes and masks, demonstrating their effectiveness in various 3D tasks through comprehensive evaluations. |
+| PDF |
+
+
+| DecompDreamer: Advancing Structured 3D Asset Generation with Multi-Object Decomposition and Gaussian Splatting |
+| Utkarsh Nath, Rajeev Goel, Rahul Khurana, Kyle Min, Mark Ollila, ...
+Arizona State University, Stability AI, Intel Labs |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.11981 |
+| TLDR: DecompDreamer is a novel text-to-3D generation framework that effectively handles complex prompts with multiple objects and intricate inter-object relationships through structured decomposition and progressive optimization, ensuring high-quality and coherent 3D compositions with enhanced object disentanglement. |
+| PDF |
+
+
+| Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation |
+| Nassim Ali Ousalah, Anis Kacem, Enjie Ghorbel, Emmanuel Koumandakis, Djamila Aouada
+ENSI, University of Luxembourg, Infinite Orbits |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.13053 |
+| TLDR: This paper introduces an uncertainty-aware Knowledge Distillation framework for compact and efficient 6DoF pose estimation, leveraging the varying levels of uncertainty in teacher model predictions to improve student model accuracy while maintaining compactness. |
+| PDF |
+
+
+| TFDM: Time-Variant Frequency-Based Point Cloud Diffusion with Mamba |
+| Jiaxu Liu, Li Li, Hubert P. H. Shum, Toby P. Breckon
+Durham University |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.13004 |
+| TLDR: The paper proposes a novel point cloud diffusion framework, TFDM, which integrates frequency analysis and the Mamba architecture to efficiently generate high-quality 3D point clouds, achieving state-of-the-art performance while significantly reducing computational resources and inference time. |
+| PDF |
+
+
+| ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object |
+| Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, Heng Wang, ...
+Hainan University, Tianjin University |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12006 |
+| TLDR: ROS-SAM, a refined version of the Segment Anything Model (SAM), addresses the challenges of remote sensing moving object segmentation by leveraging LoRA fine-tuning, enhanced feature discriminability, and integration of global context with local details, significantly improving segmentation quality and generalization across diverse remote sensing datasets. |
+| PDF |
+
+
+| DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes |
+| Runfa Blark Li, Mahdi Shaghaghi, Keito Suzuki, Xinshuang Liu, Varun Moparthi, ...
+UC San Diego, Qualcomm XR Advanced Technology |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.11979 |
+| TLDR: DynaGSLAM is a real-time Gaussian-Splatting SLAM algorithm that jointly estimates accurate ego motion while online rendering, tracking, and predicting the motion of moving objects in dynamic scenes, overcoming the limitations of previous GS-SLAM approaches by managing dynamic regions explicitly and efficiently. |
+| PDF |
+
+
+| Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors |
+| Katja Schwarz, Norman Mueller, Peter Kontschieder
+Meta Reality Labs Zurich |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.13272 |
+| TLDR: Generative Gaussian Splatting (GGS) integrates a 3D representation with pre-trained latent video diffusion models to generate 3D scenes with improved 3D consistency and quality, significantly outperforming existing baselines on RealEstate10K and ScanNet+ datasets. |
+| PDF |
+
+
+| GIFT: Generated Indoor video frames for Texture-less point tracking |
+| Jianzheng Huang, Xianyu Mo, Ziling Liu, Jinyu Yang, Feng Zheng
+Southern University of Science and Technology, tapall.ai |
+| Relevance:
+⭐⭐⭐⭐
+|
+| arXiv ID: 2503.12944 |
+| TLDR: This paper introduces GIFT, a synthetic indoor video dataset designed to evaluate point tracking methods in texture-less or weakly textured regions, using metrics to classify 3D models into different texture intensity levels and providing detailed annotations for each video sequence. |
+| PDF |
+
+
+| AnyCalib: On-Manifold Learning for Model-Agnostic Single-View Camera Calibration |
+| Javier Tirado-Garín, Javier Civera
+University of Zaragoza |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12701 |
+| TLDR: AnyCalib is a novel, model-agnostic single-view camera calibration method that uses FoV fields, a robust intermediate representation not tied to extrinsic cues, to accurately recover intrinsics for a wide range of camera models, including edited and distorted images, outperforming existing methods across various benchmarks. |
+| PDF |
+
+
+| Crab: A Unified Audio-Visual Scene Understanding Model with Explicit Cooperation |
+| Henghui Du, Guangyao Li, Chang Zhou, Chunjie Zhang, Alan Zhao, ...
+Gaoling School of Artificial Intelligence, Renmin University of China, AI Technology Center, Online Video Business Unit, Tencent PCG |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13068 |
+| TLDR: The paper proposes a unified audio-visual scene understanding model with explicit cooperation, addressing the heterogeneity and complex relationships among tasks by refining datasets and designing interaction-aware LoRA structures to facilitate concrete cooperation in learning, outperforming existing models on multiple tasks. |
+| PDF |
+
+
+| UStyle: Waterbody Style Transfer of Underwater Scenes by Depth-Guided Feature Synthesis |
+| Md Abu Bakr Siddique, Junliang Liu, Piyush Singh, Md Jahidul Islam
+University of Florida |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.11893 |
+| TLDR: UStyle is a novel data-driven framework for underwater waterbody style transfer that preserves structural integrity while achieving perceptually consistent stylization through a depth-aware whitening and coloring transform, outperforming existing methods in underwater image style transfer. |
+| PDF |
+
+
+| HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model |
+| Tao Wang, Changxu Cheng, Lingfeng Wang, Senda Chen, Wuyue Zhao
+Zhejiang University, Uni-Ubi, Tongji University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13026 |
+| TLDR: HiMTok proposes an efficient hierarchical mask tokenizer that represents segmentation masks using up to 32 hierarchical tokens, enabling large multimodal models to learn image segmentation capabilities without requiring an image-conditioned mask decoder or off-the-shelf segmentation models, while also improving visual grounding and maintaining general image understanding. |
+| PDF |
+
+
+| MTGS: Multi-Traversal Gaussian Splatting |
+| Tianyu Li, Yihang Qiu, Zhenhua Wu, Carl Lindström, Peng Su, ...
+The University of Hong Kong, Shanghai Innovation Institute, Technical University of Munich, Chalmers University of Technology |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12552 |
+| TLDR: The paper introduces MTGS, a novel approach for reconstructing high-fidelity driving scenes from multi-traversal data, which models shared static geometry while separately handling dynamic elements and appearance variations, significantly improving view extrapolation quality compared to single-traversal baselines. |
+| PDF |
+
+
+| Lifting the Veil on Visual Information Flow in MLLMs: Unlocking Pathways to Faster Inference |
+| Hao Yin, Guangzong Si, Zilei Wang
+University of Science and Technology of China |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13108 |
+| TLDR: This paper uncovers the phased processing of visual information in multimodal large language models, proposing that image tokens primarily interact with instruction tokens in shallow layers to inject most visual information, and consolidate the remaining visual information in deeper layers, leading to improved inference efficiency through Hierarchical Modality-Aware Pruning (HiMAP). |
+| PDFCode |
+
+
+| A super-resolution reconstruction method for lightweight building images based on an expanding feature modulation network |
+| Yi Zhang, Wenye Zhou, Ruonan Lin
+Unknown Affiliation |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13179 |
+| TLDR: This study introduces a lightweight super-resolution method for building images using a Dilated Contextual Feature Modulation Network (DCFMN) that efficiently models long-range dependencies and enhances local features, outperforming existing lightweight networks in accuracy and efficiency. |
+| PDF |
+
+
+| SteerX: Creating Any Camera-Free 3D and 4D Scenes with Geometric Steering |
+| Byeongjun Park, Hyojun Go, Hyelin Nam, Byung-Hoon Kim, Hyungjin Chung, ...
+EverEx, KAIST, Yonsei University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12024 |
+| TLDR: SteerX is a zero-shot inference-time steering method that unifies camera-free 3D and 4D scene generation and reconstruction, iteratively tilting data distributions toward geometrically consistent samples using tailored geometric reward functions and sequential Monte Carlo sampling, effectively improving alignment across various scene generation tasks. |
+| PDFCode |
+
+
+| VRsketch2Gaussian: 3D VR Sketch Guided 3D Object Generation with Gaussian Splatting |
+| Songen Gu, Haoxuan Song, Binjie Liu, Qian Yu, Sanyi Zhang, ...
+Institute of Software, CAS, Beihang University, Communication University of China |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12383 |
+| TLDR: VRsketch2Gaussian introduces a novel framework for VR sketch-guided 3D object generation using 3D Gaussian Splatting, leveraging a large-scale paired VR sketch dataset (VRSS) and innovative alignment techniques to bridge the gap between sparse sketches and rich text descriptions, enabling high-fidelity 3D native generation with fine geometric and visual control. |
+| PDF |
+
+
+| Beyond RGB: Adaptive Parallel Processing for RAW Object Detection |
+| Shani Gamrian, Hila Barel, Feiran Li, Masakazu Yoshimura, Daisuke Iso
+Institution A, Sony AI |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13163 |
+| TLDR: This paper introduces RAM, a novel Raw Adaptation Module designed to optimize object detection on RAW images by replacing traditional sequential ISP pipelines with parallel processing, thereby preserving and leveraging the full sensor data for superior performance across various RAW datasets and challenging conditions. |
+| PDF |
+
+
+| Point Cloud Based Scene Segmentation: A Survey |
+| Dan Halperin, Niklas Eisl
+|
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12595 |
+| TLDR: This survey provides an in-depth overview of the current state-of-the-art methods in Point Cloud Semantic Segmentation for autonomous driving, categorizing them into projection-based, 3D-based, and hybrid approaches, and comparing their segmentation accuracy and efficiency. |
+| PDF |
+
+
+| Scaling Semantic Categories: Investigating the Impact on Vision Transformer Labeling Performance |
+| Anthony Lamelas, Harrison Muchnic
+Unknown Affiliation |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12617 |
+| TLDR: The study finds that while scaling semantic categories initially improves vision transformer labeling accuracy, beyond a certain point, the benefits diminish or reverse, providing insights into the limitations of category labeling strategies for ViTs. |
+| PDF |
+
+
+| Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes |
+| Nhi Pham, Bernt Schiele, Adam Kortylewski, Jonas Fischer
+Max Planck Institute for Informatics, Saarland Informatics Campus, University of Freiburg |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13429 |
+| TLDR: The paper introduces CAVE, a robust and inherently interpretable image classifier that learns concept-aware neural object volumes, thereby addressing the limitations of existing 3D-aware classifiers by providing spatially consistent and meaningful concepts that enhance both interpretability and robustness against out-of-distribution data. |
+| PDF |
+
+
+| TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis |
+| Jiaming Kang, Keyan Chen, Zhengxia Zou, Zhenwei Shi
+Beihang University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13347 |
+| TLDR: TriDF, a hybrid 3D representation, efficiently accelerates remote sensing novel view synthesis from as few as 3 input views, achieving superior rendering quality and significantly faster reconstruction speed compared to NeRF-based methods. |
+| PDF |
+
+
+| STAY Diffusion: Styled Layout Diffusion Model for Diverse Layout-to-Image Generation |
+| Ruyu Wang, Xuefeng Hou, Sabrina Schmedding, Marco F. Huber
+Bosch Center for Artificial Intelligence, Renningen, Germany, Institute of Industrial Manufacturing and Management IFF, University of Stuttgart, Stuttgart, Germany, Fraunhofer Institute for Manufacturing Engineering and Automation IPA, Stuttgart, Germany |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12213 |
+| TLDR: This paper introduces STAY Diffusion, a diffusion-based model that generates photo-realistic images from layout inputs, providing fine-grained control over stylized objects in scenes through novel normalization and attention mechanisms, outperforming previous state-of-the-art methods in generation diversity, accuracy, and controllability. |
+| PDF |
+
+
+| TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification |
+| Ans Munir, Faisal Z. Qureshi, Muhammad Haris Khan, Mohsen Ali
+Information Technology University, University of Ontario Institute of Technology, Mohamed Bin Zayed University of AI |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12206 |
+| TLDR: The paper introduces TLAC, a training-free approach that leverages Large Multimodal Models (LMMs) like Gemini to achieve superior image classification accuracy on multiple datasets without requiring any fine-tuning, significantly improving adaptability and computational efficiency. |
+| PDF |
+
+
+| UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation |
+| Yinqiao Wang, Hao Xu, Pheng-Ann Heng, Chi-Wing Fu
+Department of Computer Science and Engineering, Institute of Medical Intelligence and XR, The Chinese University of Hong Kong |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13303 |
+| TLDR: UniHOPE, the proposed unified approach, addresses the limitations of existing methods by flexibly handling both hand-only and hand-object scenarios through an end-to-end design that dynamically switches between object pose estimation and adaptively fuses effective object features, while also learning robust occlusion-invariant hand features from generated de-occluded images. |
+| PDF |
+
+
+| Swift4D:Adaptive divide-and-conquer Gaussian Splatting for compact and efficient reconstruction of dynamic scene |
+| Jiahao Wu, Rui Peng, Zhiyan Wang, Lu Xiao, Luyang Tang, ...
+Peking University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12307 |
+| TLDR: Swift4D innovatively decomposes dynamic and static primitives using 2D multi-view images, employs a compact multi-resolution 4D Hash for efficient temporal modeling of dynamic points, and combines both to achieve state-of-the-art rendering quality with significantly reduced training time and storage requirements. |
+| PDF |
+
+
+| Does Your Vision-Language Model Get Lost in the Long Video Sampling Dilemma? |
+| Tianyuan Qu, Longxiang Tang, Bohao Peng, Senqiao Yang, Bei Yu, ...
+HKUST, CUHK |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12496 |
+| TLDR: The paper introduces LSDBench, a benchmark to evaluate Large Vision-Language Models on long-video tasks by focusing on Necessary Sampling Density, and proposes a Reasoning-Driven Hierarchical Sampling framework along with a Semantic-Guided Frame Selector to address the sampling dilemma in long videos. |
+| PDF |
+
+
+| LazyMAR: Accelerating Masked Autoregressive Models via Feature Caching |
+| Feihong Yan, Qingyan Wei, Jiayi Tang, Jiajun Li, Yulin Wang, ...
+University of Electronic Science and Technology of China, Shanghai Jiaotong University, Hong Kong University of Science and Technology(Guangzhou), Central South University, China University of Mining and Technology, ... |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12450 |
+| TLDR: LazyMAR accelerates Masked Autoregressive models by introducing token and condition caches to handle redundancies in adjacent decoding steps, achieving up to 2.83 times acceleration with minimal quality degradation, and being plug-and-play for all MAR models. |
+| PDF |
+
+
+| Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization |
+| Yiwei Xu, Yifei Yu, Wentian Gan, Tengfei Wang, Zongqian Zhan, ...
+University of Twente, Wuhan University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13086 |
+| TLDR: This paper presents On-the-Fly Gaussian Splatting (3DGS), a progressive framework that enables near real-time optimization of 3DGS during image capture, significantly reducing training time and maintaining high rendering quality. |
+| PDF |
+
+
+| An interpretable approach to automating the assessment of biofouling in video footage |
+| Evelyn J. Mannix, Bartholomew A. Woodham
+The University of Melbourne, Department of Agriculture, Fisheries and Forestry |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12875 |
+| TLDR: The paper presents an interpretable approach using Component Features (ComFe) with a DINOv2 Vision Transformer (ViT) foundation model to automate the assessment of biofouling in video footage of vessel hulls, outperforming previous methods while providing transparency and explainability in predictions. |
+| PDF |
+
+
+| Diffusion-based Synthetic Data Generation for Visible-Infrared Person Re-Identification |
+| Wenbo Dai, Lijing Lu, Zhihang Li
+Chinese Academy of Sciences, Peking University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12472 |
+| TLDR: The paper introduces DiVE, a novel method for automatically generating large-scale RGB-IR paired images with consistent identities, significantly enhancing the performance of VI-ReID models by decoupling identity and modality, thus addressing the challenges of data scarcity and privacy concerns in VI-ReID tasks. |
+| PDF |
+
+
+| NuPlanQA: A Large-Scale Dataset and Benchmark for Multi-View Driving Scene Understanding in Multi-Modal Large Language Models |
+| Sung-Yeon Park, Can Cui, Yunsheng Ma, Ahmadreza Moradipari, Rohit Gupta, ...
+Purdue University, Toyota InfoTech Labs |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12772 |
+| TLDR: NuPlanQA-Eval and NuPlanQA-1M provide a comprehensive evaluation benchmark and large-scale dataset for multi-modal large language models in driving scene understanding, highlighting the challenges and potential of these models in complex traffic scenarios. |
+| PDF |
+
+
+| WideRange4D: Enabling High-Quality 4D Reconstruction with Wide-Range Movements and Scenes |
+| Ling Yang, Kaixin Zhu, Juanxi Tian, Bohan Zeng, Mingbao Lin, ...
+National University of Singapore, Peking University, University of Chinese Academy of Sciences |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13435 |
+| TLDR: The paper introduces a novel 4D reconstruction benchmark, WideRange4D, which includes rich 4D scene data with wide-range spatial movements, enhancing the evaluation of 4D generation methods and proposing Progress4D, a new method that achieves stable and high-quality 4D results across various complex 4D scene reconstruction tasks. |
+| PDF |
+
+
+| Semantic-Clipping: Efficient Vision-Language Modeling with Semantic-Guidedd Visual Selection |
+| Bangzheng Li, Fei Wang, Wenxuan Zhou, Nan Xu, Ben Zhou, ...
+Unknown Affiliation |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.11794 |
+| TLDR: Semantic-Clipping: A novel framework that integrates textual semantics into the visual encoding process of Vision-Language Models (VLMs), significantly enhancing their ability to process fine-grained visual details without requiring additional training, thereby improving VQA performance and reducing computational overhead. |
+| PDF |
+
+
+| LangDA: Building Context-Awareness via Language for Domain Adaptive Semantic Segmentation |
+| Chang Liu, Bavesh Balaji, Saad Hossain, C Thomas, Kwei-Herng Lai, ...
+Apple, University of Waterloo |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12780 |
+| TLDR: LangDA addresses the challenges of unsupervised domain adaptation for semantic segmentation by learning context-aware representations through language, explicitly capturing spatial relationships between objects in images and achieving state-of-the-art performance across multiple benchmarks. |
+| PDF |
+
+
+| Breaking the Box: Enhancing Remote Sensing Image Segmentation with Freehand Sketches |
+| Ying Zang, Yuncan Gao, Jiangi Zhang, Yuangi Hu, Runlong Cao, ...
+University of Science and Technology of China, KOKONI 3D, Moxin (Huzhou) Tech. Co., LTD., Zhejiang University, Huzhou University, Singapore University of Technology and Design |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12191 |
+| TLDR: This work introduces a novel sketch-based prompting method and the first dataset pairing human sketches with remote sensing imagery, enhancing zero-shot interactive segmentation for remote sensing images and significantly improving accuracy and robustness compared to state-of-the-art methods. |
+| PDF |
+
+
+| BFANet: Revisiting 3D Semantic Segmentation with Boundary Feature Analysis |
+| Weiguang Zhao, Rui Zhang, Qiufeng Wang, Guangliang Cheng, Kaizhu Huang
+Unknown Affiliation |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12539 |
+| TLDR: The paper introduces BFANet, a novel 3D semantic segmentation framework that categorizes and evaluates four types of segmentation errors, incorporating detailed boundary feature analysis to enhance overall performance and outperform state-of-the-art methods on benchmark datasets. |
+| PDF |
+
+
+| Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning |
+| Tianyi Zhao, Boyang Liu, Yanglei Gao, Yiming Sun, Maoxun Yuan, ...
+Southeast University, Beihang University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.11780 |
+| TLDR: This paper rethinks multi-modal object detection by introducing linear probing evaluation and constructing a novel framework M$^2$D-LIF, which facilitates sufficient mono-modality learning during multi-modal joint training and explores a lightweight yet effective feature fusion method to mitigate the Fusion Degradation phenomenon and improve object detection performance. |
+| PDF |
+
+
+| MOS: Modeling Object-Scene Associations in Generalized Category Discovery |
+| Zhengyuan Peng, Jinpeng Ma, Zhimin Sun, Ran Yi, Haichuan Song, ...
+Shanghai Jiao Tong University, Chongqing University, East China Normal University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12035 |
+| TLDR: The paper argues that scene information should be viewed as a valuable prior for inferring novel categories in Generalized Category Discovery, proposing the Modeling Object-Scene Associations (MOS) framework to enhance GCD performance by leveraging scene-awareness modules, achieving significant accuracy improvements on fine-grained datasets. |
+| PDF |
+
+
+| RGBAvatar: Reduced Gaussian Blendshapes for Online Modeling of Head Avatars |
+| Linzhou Li, Yumeng Li, Yanlin Weng, Youyi Zheng, Kun Zhou
+State Key Lab of CAD&CG, Zhejiang University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12886 |
+| TLDR: The paper introduces RGBAvatar, a method for real-time photorealistic animated head avatar reconstruction from monocular video streams using reduced Gaussian blendshapes, which are learned adaptively from tracked FLAME parameters and optimized for efficiency and quality, significantly reducing the number of blendshapes needed compared to traditional approaches. |
+| PDF |
+
+
+| InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving |
+| Ruiqi Song, Xianda Guo, Hangbin Wu, Qinggong Wei, Long Chen
+Unknown Affiliation |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13047 |
+| TLDR: The paper introduces InsightDrive, a novel end-to-end autonomous driving method that organizes perception by language-guided scene representation, focusing on regions directly impacting the ego vehicle's movement, and achieves state-of-the-art performance in vision-based planning tasks. |
+| PDF |
+
+
+| EgoEvGesture: Gesture Recognition Based on Egocentric Event Camera |
+| Luming Wang, Hao Shi, Xiaoting Yin, Kailun Yang, Kaiwei Wang
+Unknown Affiliation |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12419 |
+| TLDR: The paper introduces a novel approach for egocentric gesture recognition using event cameras, proposing a dataset and a lightweight neural architecture that achieves high accuracy while maintaining computational efficiency. |
+| PDF |
+
+
+| Learning Dual-Domain Multi-Scale Representations for Single Image Deraining |
+| Shun Zou, Yi Zou, Mingya Zhang, Shipeng Luo, Guangwei Gao, ...
+Xiangtan University, Northeast Forestry University, Nanjing Agricultural University, Nanjing University of Posts and Telecommunications, Westlake University, ... |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12014 |
+| TLDR: The paper introduces DMSR, a novel dual-domain multi-scale architecture for single image deraining that addresses the limitations of existing methods by leveraging both external and internal multi-scale information, enhancing feature representations and achieving state-of-the-art performance across multiple benchmark datasets. |
+| PDF |
+
+
+| Human-in-the-Loop Local Corrections of 3D Scene Layouts via Infilling |
+| Christopher Xie, Armen Avetisyan, Henry Howard-Jenkins, Yawar Siddiqui, Julian Straub, ...
+|
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.11806 |
+| TLDR: This paper introduces a human-in-the-loop method for refining 3D scene layouts using local corrections, integrating a novel "infilling" task into a multi-task learning framework to improve the model's ability to correct specific errors, and enabling users to iteratively refine scene estimates via a simple workflow. |
+| PDF |
+
+
+| SPOC: Spatially-Progressing Object State Change Segmentation in Video |
+| Priyanka Mandikal, Tushar Nagarajan, Alex Stoken, Zihui Xue, Kristen Grauman
+The University of Texas at Austin |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.11953 |
+| TLDR: The paper introduces a novel task of spatially-progressing object state change segmentation in video, proposing a model that segments object regions into actionable and transformed parts and validating its effectiveness on a new benchmark dataset derived from human activity videos. |
+| PDF |
+
+
+| LIAM: Multimodal Transformer for Language Instructions, Images, Actions and Semantic Maps |
+| Yihao Wang, Raphael Memmesheimer, Sven Behnke
+University of Bonn |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12230 |
+| TLDR: LIAM is an end-to-end multimodal Transformer model that predicts action sequences based on language, image, action, and semantic map inputs, pre-aligning embedding spaces from different modalities to enhance understanding and generalizability, as demonstrated on the ALFRED dataset. |
+| PDF |
+
+
+| Segment Any-Quality Images with Generative Latent Space Enhancement |
+| Guangqian Guo, Yoong Guo, Xuehui Yu, Wenbo Li, Yaoxing Wang, ...
+Tencent, Northwestern Polytechnical University, Huawei Noah's Ark Lab, Huawei |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12507 |
+| TLDR: GleSAM enhances Segment Anything Models by incorporating generative latent space enhancement, significantly improving robustness on low-quality images with varying degradations while maintaining generalization to clear images, as demonstrated by extensive experiments. |
+| PDF |
+
+
+| Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training |
+| Corentin Sautier, Gilles Puy, Alexandre Boulch, Renaud Marlet, Vincent Lepetit
+Valeo.ai, LIGM, Ecole des Ponts, Univ Gustave Eiffel, CNRS |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13203 |
+| TLDR: The paper demonstrates that competitive LiDAR panoptic segmentation can be achieved using only semantic labels and an unsupervised clustering algorithm, achieving performance comparable to state-of-the-art supervised methods without requiring instance labels, training, or heavy computational resources. |
+| PDF |
+
+
+| R3-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars |
+| Yifan Zhan, Wangze Xu, Qingtian Zhu, Muyao Niu, Mingze Ma, ...
+The University of Tokyo, Shanghai Artificial Intelligence Laboratory |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12751 |
+| TLDR: R3-Avatar innovatively combines a temporal codebook with a record-retrieve-reconstruct strategy to generate high-fidelity, animatable 3D human avatars from video data, overcoming limitations in existing methods by ensuring both rendering quality and animation flexibility. |
+| PDF |
+
+
+| Scale Efficient Training for Large Datasets |
+| Qing Zhou, Junyu Gao, Qi Wang
+Northwestern Polytechnical University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13385 |
+| TLDR: The paper introduces Scale Efficient Training (SeTa), a dynamic sample pruning approach that reduces training time for large datasets by up to 50%, effectively handling redundant, challenging, and inefficient samples, and demonstrating its versatility across various synthetic and real-world datasets and architectures. |
+| PDF |
+
+
+| Efficient Motion-Aware Video MLLM |
+| Zijia Zhao, Yuqi Huo, Tongtian Yue, Longteng Guo, Haoyu Lu, ...
+Institute of Automation, Chinese Academy of Sciences, University of Chinese Academy of Sciences |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13016 |
+| TLDR: This paper introduces EMA, an efficient motion-aware video MLLM that utilizes compressed video structures as inputs, integrating dense RGB frames with sparse motion vectors to reduce redundancy and enhance motion representation, achieving state-of-the-art performance on video benchmarks while reducing inference costs. |
+| PDF |
+
+
+| UniReg: Foundation Model for Controllable Medical Image Registration |
+| Zi Li, Jianpeng Zhang, Tai Ma, Tony C. W. Mok, Yan-Jie Zhou, ...
+DAMO Academy, Alibaba Group, College of Computer Science and Technology, Zhejiang University, The First Affiliated Hospital of College of Medicine, Zhejiang University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12868 |
+| TLDR: UniReg is a novel foundation model for medical image registration that combines the precision of task-specific learning methods with the generalization of traditional optimization methods, enabling a unified framework for diverse registration scenarios with significant computational efficiency improvements. |
+| PDF |
+
+
+| Decouple to Reconstruct: High Quality UHD Restoration via Active Feature Disentanglement and Reversible Fusion |
+| Yidi Liu, Dong Li, Yuxin Ma, Jie Huang, Wenlong Zhang, ...
+Shanghai AI Laboratory, University of Science and Technology of China |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12764 |
+| TLDR: The paper proposes a novel framework, D²R-UHDNet, for ultra-high-definition image restoration that decouples background-dominated and degradation-dominated features through active feature disentanglement and reversible fusion, effectively mitigating information loss and improving computational efficiency while achieving state-of-the-art results. |
+| PDF |
+
+
+| Industrial-Grade Sensor Simulation via Gaussian Splatting: A Modular Framework for Scalable Editing and Full-Stack Validation |
+| Xianming Zeng, Sicong Du, Qifeng Chen, Lizhe Liu, Haoyu Shu, ...
+Unmanned Vehicle Department of CaiNiao Inc., Alibaba Group |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.11731 |
+| TLDR: This paper introduces a Gaussian Splatting-based sensor simulation framework that addresses scalability and efficiency challenges in industrial workflows, providing a modular and practical solution for realistic scene modeling, data augmentation, and end-to-end validation of autonomous driving systems. |
+| PDF |
+
+
+| TopoGaussian: Inferring Internal Topology Structures from Visual Clues |
+| Xiaoyu Xiong, Changyu Hu, Chunru Lin, Pingchuan Ma, Chuang Gan, ...
+University of Massachusetts Amherst, Shanghai Qi Zhi Institute, Massachusetts Institute of Technology, Tsinghua University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12343 |
+| TLDR: TopoGaussian is a novel, non-intrusive pipeline that infers the internal topology structure of opaque objects from easily accessible photos and videos, overcoming the limitations of traditional mesh-based methods by providing a flexible and efficient particle-based framework that outputs smoother, 3D-print friendly results while being significantly faster and more accurate. |
+| PDF |
+
+
+| Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait |
+| Chaolong Yang, Kai Yao, Yuyao Yan, Chenru Jiang, Weiguang Zhao, ...
+Unknown Affiliation |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12963 |
+| TLDR: KDTalker combines unsupervised implicit 3D keypoints with a spatiotemporal diffusion model to generate high-quality, diverse, and efficient audio-driven talking portraits with accurate lip synchronization and natural head poses. |
+| PDF |
+
+
+| DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding |
+| Xinyu Ma, Ziyang Ding, Zhicong Luo, Chi Chen, Zonghao Guo, ...
+Northwestern Polytechnical University, Tsinghua University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12797 |
+| TLDR: The paper introduces DeepPerception, an MLLM enhanced with cognitive visual perception capabilities, to address the challenges of knowledge-intensive visual grounding (KVG) tasks, achieving significant performance improvements and superior cross-domain generalization compared to direct fine-tuning methods. |
+| PDF |
+
+
+| DPF-Net: Physical Imaging Model Embedded Data-Driven Underwater Image Enhancement |
+| Han Mei, Kunqian Li, Shuaixin Liu, Chengzhi Ma, Qianli Jiang
+Ocean University of China |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12470 |
+| TLDR: The paper introduces DPF-Net, a two-stage underwater image enhancement network that combines physical imaging models with data-driven methods, integrating physical parameters from synthetic datasets to improve the accuracy and reliability of underwater image restoration, outperforming existing benchmarks. |
+| PDF |
+
+
+| Adaptive Transformer Attention and Multi-Scale Fusion for Spine 3D Segmentation |
+| Yanlin Xiang, Qingyuan He, Ting Xu, Ran Hao, Jiacheng Hu, ...
+Unknown Affiliation |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12853 |
+| TLDR: This study proposes an adaptive Transformer attention and multi-scale fusion method for spine 3D segmentation, significantly improving accuracy and robustness compared to existing methods, as demonstrated by enhanced mIoU, mDice, and mAcc metrics. |
+| PDF |
+
+
+| PASTA: Part-Aware Sketch-to-3D Shape Generation with Text-Aligned Prior |
+| Seunggwan Lee, Hwanhee Jung, Byoungsoo Koh, Qixing Huang, Sangho Yoon, ...
+The University of Texas at Austin, Korea University, KOCCA, KAIST |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12834 |
+| TLDR: PASTA, a novel approach for sketch-to-3D shape generation, integrates visual and text conditions from a vision-language model to compensate for missing visual cues, enhancing the comprehension of object components in user sketches, and achieves state-of-the-art performance in qualitative and quantitative evaluations through the use of ISG-Net and SPAGHETTI shape decoder. |
+| PDF |
+
+
+| MagicDistillation: Weak-to-Strong Video Distillation for Large-Scale Portrait Few-Step Synthesis |
+| Shitong Shao, Hongwei Yi, Hanzhong Guo, Tian Ye, Daquan Zhou, ...
+Unknown Affiliation |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.13319 |
+| TLDR: The paper proposes MagicDistillation (W2SVD), a novel weak-to-strong video distillation method to mitigate memory constraints and training collapse in large-scale video diffusion models, significantly improving the efficiency and quality of portrait video synthesis. |
+| PDF |
+
+
+| Fraesormer: Learning Adaptive Sparse Transformer for Efficient Food Recognition |
+| Shun Zou, Yi Zou, Mingya Zhang, Shipeng Luo, Zhihao Chen, ...
+Xiangtan University, Northeast Forestry University, Nanjing Agricultural University, Nanjing University of Posts and Telecommunications, Beijing Information Science and Technology University, ... |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.11995 |
+| TLDR: Fraesormer is an adaptive efficient sparse Transformer architecture that addresses lightweight food recognition challenges by adaptively retaining critical attention values, reducing redundancy, and promoting multi-scale feature exploration, outperforming state-of-the-art methods in food image recognition. |
+| PDF |
+
+
+| From Head to Tail: Towards Balanced Representation in Large Vision-Language Models through Adaptive Data Calibration |
+| Mingyang Song, Xiaoye Qu, Jiawei Zhou, Yu Cheng
+Stony Brook University, The Chinese University of Hong Kong, Shanghai Artificial Intelligence Laboratory, Fudan University |
+| Relevance:
+⭐⭐⭐
+|
+| arXiv ID: 2503.12821 |
+| TLDR: The paper introduces an Adaptive Data Refinement Framework (ADR) to address the long-tail problem in large Vision-Language Models (LVLMs), balancing redundant head data and synthesizing scarce tail data, thereby improving model performance across various benchmarks without increasing training data volume. |
+| PDF |
+
+
+
+To unsubscribe, remove your email in your Github Action setting.
